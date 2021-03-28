@@ -33,3 +33,9 @@ class Person2 {
 let kei = Person2(name: "けい", hobby: "Kick-Boxing", favoriteFoods: ["カレー","焼肉"])
 print(kei.hobby)
 
+
+let reon = Person(name: "大西玲音", hobby: "漫画", favoriteFoods: ["寿司", "ハンバーグ"])
+for favoriteFood in reon.favoriteFoods {
+    print(favoriteFood)
+}
+

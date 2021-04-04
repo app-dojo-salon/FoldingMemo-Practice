@@ -12,7 +12,7 @@ class Person {
   }
 }
 
-let takuma = Person(name: "たくま", hobby: "bouldering", favoriteFoods: ["寿司","豚しゃぶ"])
+let takuma = Person(name: "たくま", hobby: "bouldering", favoriteFoods: ["寿司", "豚しゃぶ", "果物"])
 print(takuma.hobby)
 print(takuma.name)
 

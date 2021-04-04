@@ -14,6 +14,7 @@ class Person {
 
 let takuma = Person(name: "たくま", hobby: "bouldering", favoriteFoods: ["寿司","豚しゃぶ"])
 print(takuma.hobby)
+print(takuma.name)
 
 // ↑自己紹介っぽくしてみました。
 // 何でも良いので追加してPushしてみてください！
